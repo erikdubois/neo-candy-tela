@@ -12,7 +12,14 @@ A colour variant of the [neo-candy-icons](https://github.com/erikdubois/neo-cand
 
 ## Installation (Arch / Kiro — nemesis_repo)
 
-```
+```bash
+# Everything — the whole Neo Candy collection (base + all variants)
+sudo pacman -S neo-candy-icons-meta
+
+# The Neo Candy Tela family (base + all Tela colour variants)
+sudo pacman -S neo-candy-tela-meta
+
+# Only this variant
 sudo pacman -S neo-candy-tela-icons-git
 ```
 

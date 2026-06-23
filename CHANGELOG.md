@@ -2,6 +2,8 @@
 
 ## 2026.06.23 — neo-candy colour split
 
+**Install docs:** the README install section now lists the meta packages (top-level `*-icons-meta`, plus the group meta where applicable) alongside the per-variant `*-icons-git` package — replacing the outdated single `pacman -S` line.
+
 ### What Changed
 
 Initial standalone repo. The **neo-candy-tela** folder icons mirror `erikdubois/surfn-tela` but fall
